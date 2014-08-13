@@ -1,0 +1,6 @@
+package first
+public class Myfirst{
+  public static viod main(String[] args){
+    System.out.println("helloworld!!!");
+  }
+}
